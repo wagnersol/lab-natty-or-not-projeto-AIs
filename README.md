@@ -1,24 +1,22 @@
-# IA: Um Passeio pelo Futuro 🌌 
+#  Criando conteúdo...
 
 ## 📒 Descrição
-Este e-book mostra o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+ Este projeto visa a criação de imagens utilizando inteligência artificil.O objetivo principal é explorar a capacidade das IAs generativas.
 
 ## 🤖 Tecnologias Utilizadas
-
-   - IA Generativa( https://chatgpt.com/) para roteirização;
-   - IA Generativa (https://leonardo.ai/) para criar a arte visual do e-book;
-   - Ferramenta Libre Office para edição.
+Para fazer este projeto, utilizei a IA generativa do Canva para criar as imagens. Essa ferramenta se mostrou  se eficiente  para a geração de arte digital a partir de descrições textuais.
 
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+ Utilizei a IA generativa do Canva para criar as imagens com base em descrições textuais detalhadas. Selecionei algumas imagens geradas.
+
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+ IA gerou varias imagens uma melhor que a outra. Capacidade da IA generativa do Canva em  produzir imagens  é de alta qualidade visual. O projeto resultou em imagens incrível.
+![title](imagem\Designbebe02.png)
 
 ## 💭 Reflexão 
-Criar este e-book foi uma experiência incrível poder ver o potencial das IAs e como elas podem ser aplicadas em diferentes contextos.
-
+Criar esse projeto foi uma experiência incrível ver o potencial das IAs e como elas podem ser aplicadas em diferentes contextos. desafio foi encontrar o equilíbrio entre a criatividade capacidade generativa das IAs.
 
 
 
